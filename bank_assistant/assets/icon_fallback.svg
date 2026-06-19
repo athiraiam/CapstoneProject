@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- Warning triangle -->
+  <polygon points="12,2 22,21 2,21" fill="#FFC107" stroke="#e0a800" stroke-width="1" stroke-linejoin="round"/>
+  <!-- ! mark -->
+  <rect x="11" y="8"  width="2" height="7" rx="1" fill="#212529"/>
+  <circle cx="12" cy="17.5" r="1.2" fill="#212529"/>
+</svg>

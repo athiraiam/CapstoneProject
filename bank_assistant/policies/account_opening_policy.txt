@@ -1,0 +1,100 @@
+POLICY NAME: Account Opening Policy
+POLICY CODE: AOP-005
+LAST UPDATED: January 2024
+
+OVERVIEW:
+This policy defines the requirements and steps for opening personal and business bank accounts.
+All employees involved in account opening must follow this policy to ensure compliance and
+customer due diligence.
+
+ACCOUNT TYPES:
+1. Savings Account
+   - Minimum opening deposit: $100
+   - Minimum monthly balance: $500 (below this, $10 monthly fee applies)
+   - Interest rate: 1.5% to 2.5% per annum
+   - Free transactions: 5 per month (charges apply beyond limit)
+
+2. Current/Checking Account
+   - Minimum opening deposit: $200
+   - No minimum balance required (business customers)
+   - Monthly fee: $15 (waived for balances above $2,000)
+   - Unlimited transactions included
+
+3. Fixed Deposit Account
+   - Minimum deposit: $1,000
+   - Tenure: 30 days to 5 years
+   - Interest rate: 3% to 6% per annum (based on tenure)
+   - Premature withdrawal penalty: 1% reduction in interest rate
+
+4. Joint Account
+   - Available for savings and current accounts
+   - Both applicants must complete full KYC
+   - Mode of operation: Either or Survivor / Both to Sign
+
+5. Business Account
+   - Minimum opening deposit: $500
+   - Requires corporate KYC documentation
+   - Dedicated relationship manager assigned
+
+ELIGIBILITY:
+Personal Accounts:
+- Minimum age: 18 years
+- Valid government-issued ID
+- Proof of address
+- Initial deposit as per account type
+
+Minor Accounts (under 18):
+- Parent or guardian must be joint account holder
+- Guardian must complete full KYC
+- Converted to regular account at age 18
+
+REQUIRED DOCUMENTS (Personal):
+- Government-issued photo ID (Passport, Driver's License, National ID)
+- Proof of address (utility bill or bank statement - within 3 months)
+- Completed account opening form
+- Initial deposit (cash or cheque)
+- Passport-size photograph (2 copies)
+
+REQUIRED DOCUMENTS (Business):
+- Certificate of incorporation or business registration
+- Memorandum and Articles of Association
+- Board resolution authorizing account opening
+- List of authorized signatories with specimen signatures
+- KYC for all directors (ID + address proof)
+- Proof of business address
+- Tax Identification Number (TIN)
+
+ACCOUNT OPENING PROCESS:
+1. Customer approaches branch or applies via mobile/web portal
+2. Employee collects and verifies all required documents
+3. KYC verification completed in KYCMS
+4. Account opening form submitted to the system
+5. Account created and account number generated within 1 business day
+6. Welcome kit (debit card, cheque book, welcome letter) dispatched within 5 business days
+7. Customer receives SMS and email confirmation
+
+DEBIT CARD:
+- Issued automatically with savings and current accounts
+- Card delivered within 5 business days
+- Default daily limit: $1,000 (can be increased up to $5,000 via app or branch)
+- PIN set by customer via ATM or mobile app
+
+ONLINE BANKING ACCESS:
+- Internet banking credentials provided via email upon account activation
+- Mobile app linked after first login verification
+- 2-Factor Authentication (2FA) mandatory
+
+DORMANT ACCOUNTS:
+- Account becomes dormant after 12 months of no transactions
+- Customer notified by email/SMS before dormancy
+- To reactivate: customer must visit branch with valid ID and address proof
+
+ACCOUNT CLOSURE:
+- Customer must visit branch with valid ID
+- All outstanding balances, loans, or card dues must be cleared
+- Closure form to be signed
+- Funds transferred to customer's nominated account within 2 business days
+
+ESCALATION:
+For account opening exceptions or complex cases:
+Contact: accountoperations@bank.internal

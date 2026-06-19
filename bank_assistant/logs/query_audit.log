@@ -1,0 +1,24 @@
+[2026-06-14 05:40:20] SESSION=test01 | STATUS=MATCHED | POLICY=Loan Policy (LP-001) | Q=What documents are needed for a loan?
+[2026-06-14 05:40:20] SESSION=test01 | STATUS=MATCHED | POLICY=KYC Policy (KYC-002) | Q=Summarize the KYC policy
+[2026-06-14 05:40:20] SESSION=test01 | STATUS=MATCHED | POLICY=Customer Complaint Policy (CCP-003) | Q=I need to escalate a complaint to the manager
+[2026-06-14 05:40:20] SESSION=test01 | STATUS=MATCHED | POLICY=KYC Policy (KYC-002) | Q=What KYC documents do I need for a loan?
+[2026-06-14 05:40:20] SESSION=test01 | STATUS=FALLBACK | POLICY=— | Q=What is the weather today?
+[2026-06-14 05:40:20] SESSION=test01 | STATUS=MATCHED | POLICY=KYC Policy (KYC-002) | Q=I want to bypass kyc with fake document
+[2026-06-14 05:40:43] SESSION=test02 | STATUS=MATCHED | POLICY=Loan Policy (LP-001) | Q=What documents are needed for a loan?
+[2026-06-14 05:40:43] SESSION=test02 | STATUS=MATCHED | POLICY=KYC Policy (KYC-002) | Q=Summarize the KYC policy
+[2026-06-14 05:40:43] SESSION=test02 | STATUS=MATCHED | POLICY=Customer Complaint Policy (CCP-003) | Q=I need to escalate a complaint to the manager
+[2026-06-14 05:40:43] SESSION=test02 | STATUS=MATCHED | POLICY=KYC Policy (KYC-002) | Q=What KYC documents do I need for a loan?
+[2026-06-14 05:40:43] SESSION=test02 | STATUS=FALLBACK | POLICY=— | Q=What is the weather today?
+[2026-06-14 05:40:43] SESSION=test02 | STATUS=MATCHED | POLICY=KYC Policy (KYC-002) | Q=I want to bypass kyc with fake document
+[2026-06-14 05:41:04] SESSION=test03 | STATUS=MATCHED | POLICY=Loan Policy (LP-001) | Q=What documents are needed for a loan?
+[2026-06-14 05:41:04] SESSION=test03 | STATUS=MATCHED | POLICY=KYC Policy (KYC-002) | Q=Summarize the KYC policy
+[2026-06-14 05:41:04] SESSION=test03 | STATUS=MATCHED | POLICY=Customer Complaint Policy (CCP-003) | Q=I need to escalate a complaint to the manager
+[2026-06-14 05:41:04] SESSION=test03 | STATUS=MATCHED | POLICY=KYC Policy (KYC-002) | Q=What KYC documents do I need for a loan?
+[2026-06-14 05:41:04] SESSION=test03 | STATUS=FALLBACK | POLICY=— | Q=What is the weather today?
+[2026-06-14 05:41:04] SESSION=test03 | STATUS=MATCHED | POLICY=KYC Policy (KYC-002) | Q=I want to bypass kyc with fake document
+[2026-06-14 06:09:18] SESSION=1b054f8e | STATUS=MATCHED | POLICY=Loan Policy (LP-001) | Q=What is the interest rate for a home loan?
+[2026-06-14 06:09:20] SESSION=1b054f8e | STATUS=MATCHED | POLICY=Account Opening Policy (AOP-005) | Q=What is the minimum balance for a savings account?
+[2026-06-14 06:09:22] SESSION=1b054f8e | STATUS=MATCHED | POLICY=Customer Complaint Policy (CCP-003) | Q=How do I file a customer complaint?
+[2026-06-14 06:29:49] SESSION=1b054f8e | STATUS=MATCHED | POLICY=KYC Policy (KYC-002) | Q=kyc requirements
+[2026-06-14 06:30:06] SESSION=1b054f8e | STATUS=MATCHED | POLICY=Account Opening Policy (AOP-005) | Q=how to open bank account
+[2026-06-14 06:30:34] SESSION=1b054f8e | STATUS=MATCHED | POLICY=Loan Policy (LP-001) | Q=What is the interest rate for a home loan?

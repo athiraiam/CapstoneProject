@@ -1,0 +1,62 @@
+POLICY NAME: Customer Complaint Policy
+POLICY CODE: CCP-003
+LAST UPDATED: January 2024
+
+OVERVIEW:
+This policy outlines the process for receiving, recording, escalating, and resolving customer
+complaints in a timely and fair manner.
+
+DEFINITION:
+A complaint is any expression of dissatisfaction from a customer regarding products, services,
+staff behavior, fees, errors, or any bank-related matter.
+
+COMPLAINT CHANNELS:
+1. In-Branch: Customer visits the branch and speaks to a teller or customer service officer
+2. Phone: Customer calls the bank helpline (1-800-BANK-HELP)
+3. Email: complaints@bank.internal
+4. Online Portal: www.bank.com/complaints
+5. Written Letter: Addressed to the Branch Manager
+
+COMPLAINT REGISTRATION:
+- All complaints must be logged in the Complaint Management System (CMS) within 1 hour of receipt
+- Assign a unique Complaint Reference Number (CRN) to each complaint
+- Inform the customer of the CRN immediately
+- Acknowledge receipt within 24 hours via customer's preferred contact method
+
+COMPLAINT CATEGORIES:
+1. Service Complaint — Poor service quality, long wait times, staff behavior
+2. Transaction Complaint — Incorrect charges, failed transactions, unauthorized debits
+3. Product Complaint — Issues with loans, cards, accounts, or insurance
+4. Digital Complaint — Mobile app, internet banking, ATM issues
+5. Staff Conduct Complaint — Misconduct, discrimination, breach of confidentiality
+
+RESOLUTION TIMELINES:
+- Simple complaints (service, minor issues): Resolve within 3 business days
+- Complex complaints (transactions, fraud): Resolve within 7 business days
+- Escalated complaints (legal, regulatory): Resolve within 15 business days
+- Customer must be updated every 3 business days if complaint is unresolved
+
+ESCALATION PROCESS:
+Level 1: Branch Customer Service Officer
+Level 2: Branch Manager (if not resolved within 3 days)
+Level 3: Regional Customer Experience Manager (if not resolved within 7 days)
+Level 4: Head of Customer Experience (for regulatory or legal matters)
+
+RESOLUTION & CLOSURE:
+- Inform customer of the resolution in writing (email or letter)
+- Customer must confirm satisfaction or request re-escalation
+- Complaint marked as "Closed" only after customer confirmation
+- If customer is unsatisfied after Level 4, direct to external Banking Ombudsman
+
+COMPENSATION POLICY:
+- Verified transaction errors: Full refund + applicable interest
+- Service failures: Goodwill gesture (waiver of fees, vouchers) at manager's discretion
+- Fraudulent transactions (bank error): Full refund within 5 business days
+
+RECORD KEEPING:
+- All complaints and resolutions must be retained for 5 years
+- Monthly complaint summary reports submitted to the Risk & Compliance team
+
+ESCALATION CONTACT:
+For unresolved complaints or escalations beyond branch level:
+Contact: customerexperience@bank.internal

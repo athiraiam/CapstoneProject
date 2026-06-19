@@ -1,0 +1,59 @@
+[2026-06-14 05:40:20] SESSION=test01 | EVENT=SESSION_START | App loaded — knowledge base ready
+[2026-06-14 05:40:20] SESSION=test01 | EVENT=PRE_QUERY | Q=What documents are needed for a loan?
+[2026-06-14 05:40:20] SESSION=test01 | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=Loan Policy (LP-001) | TIME=1ms | Q=What documents are needed for a loan?
+[2026-06-14 05:40:20] SESSION=test01 | EVENT=PRE_QUERY | Q=Summarize the KYC policy
+[2026-06-14 05:40:20] SESSION=test01 | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=KYC Policy (KYC-002) | TIME=0ms | Q=Summarize the KYC policy
+[2026-06-14 05:40:20] SESSION=test01 | EVENT=PRE_QUERY | Q=I need to escalate a complaint to the manager
+[2026-06-14 05:40:20] SESSION=test01 | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=Customer Complaint Policy (CCP-003) | TIME=0ms | Q=I need to escalate a complaint to the manager
+[2026-06-14 05:40:20] SESSION=test01 | EVENT=PRE_QUERY | Q=What KYC documents do I need for a loan?
+[2026-06-14 05:40:20] SESSION=test01 | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=KYC Policy (KYC-002) | TIME=1ms | Q=What KYC documents do I need for a loan?
+[2026-06-14 05:40:20] SESSION=test01 | EVENT=PRE_QUERY | Q=What is the weather today?
+[2026-06-14 05:40:20] SESSION=test01 | EVENT=ESCALATION | Escalated: What is the weather today?
+[2026-06-14 05:40:20] SESSION=test01 | EVENT=POST_ANSWER | STATUS=FALLBACK | POLICY=None | TIME=1ms | Q=What is the weather today?
+[2026-06-14 05:40:20] SESSION=test01 | EVENT=PRE_QUERY | Q=I want to bypass kyc with fake document
+[2026-06-14 05:40:20] SESSION=test01 | EVENT=COMPLIANCE_ALERT | RISK FLAGGED: I want to bypass kyc with fake document
+[2026-06-14 05:40:20] SESSION=test01 | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=KYC Policy (KYC-002) | TIME=1ms | Q=I want to bypass kyc with fake document
+[2026-06-14 05:40:43] SESSION=test02 | EVENT=SESSION_START | App loaded — knowledge base ready
+[2026-06-14 05:40:43] SESSION=test02 | EVENT=PRE_QUERY | Q=What documents are needed for a loan?
+[2026-06-14 05:40:43] SESSION=test02 | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=Loan Policy (LP-001) | TIME=1ms | Q=What documents are needed for a loan?
+[2026-06-14 05:40:43] SESSION=test02 | EVENT=PRE_QUERY | Q=Summarize the KYC policy
+[2026-06-14 05:40:43] SESSION=test02 | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=KYC Policy (KYC-002) | TIME=0ms | Q=Summarize the KYC policy
+[2026-06-14 05:40:43] SESSION=test02 | EVENT=PRE_QUERY | Q=I need to escalate a complaint to the manager
+[2026-06-14 05:40:43] SESSION=test02 | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=Customer Complaint Policy (CCP-003) | TIME=0ms | Q=I need to escalate a complaint to the manager
+[2026-06-14 05:40:43] SESSION=test02 | EVENT=PRE_QUERY | Q=What KYC documents do I need for a loan?
+[2026-06-14 05:40:43] SESSION=test02 | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=KYC Policy (KYC-002) | TIME=1ms | Q=What KYC documents do I need for a loan?
+[2026-06-14 05:40:43] SESSION=test02 | EVENT=PRE_QUERY | Q=What is the weather today?
+[2026-06-14 05:40:43] SESSION=test02 | EVENT=ESCALATION | Escalated: What is the weather today?
+[2026-06-14 05:40:43] SESSION=test02 | EVENT=POST_ANSWER | STATUS=FALLBACK | POLICY=None | TIME=1ms | Q=What is the weather today?
+[2026-06-14 05:40:43] SESSION=test02 | EVENT=PRE_QUERY | Q=I want to bypass kyc with fake document
+[2026-06-14 05:40:43] SESSION=test02 | EVENT=COMPLIANCE_ALERT | RISK FLAGGED: I want to bypass kyc with fake document
+[2026-06-14 05:40:43] SESSION=test02 | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=KYC Policy (KYC-002) | TIME=1ms | Q=I want to bypass kyc with fake document
+[2026-06-14 05:41:04] SESSION=test03 | EVENT=SESSION_START | App loaded — knowledge base ready
+[2026-06-14 05:41:04] SESSION=test03 | EVENT=PRE_QUERY | Q=What documents are needed for a loan?
+[2026-06-14 05:41:04] SESSION=test03 | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=Loan Policy (LP-001) | TIME=1ms | Q=What documents are needed for a loan?
+[2026-06-14 05:41:04] SESSION=test03 | EVENT=PRE_QUERY | Q=Summarize the KYC policy
+[2026-06-14 05:41:04] SESSION=test03 | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=KYC Policy (KYC-002) | TIME=1ms | Q=Summarize the KYC policy
+[2026-06-14 05:41:04] SESSION=test03 | EVENT=PRE_QUERY | Q=I need to escalate a complaint to the manager
+[2026-06-14 05:41:04] SESSION=test03 | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=Customer Complaint Policy (CCP-003) | TIME=1ms | Q=I need to escalate a complaint to the manager
+[2026-06-14 05:41:04] SESSION=test03 | EVENT=PRE_QUERY | Q=What KYC documents do I need for a loan?
+[2026-06-14 05:41:04] SESSION=test03 | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=KYC Policy (KYC-002) | TIME=1ms | Q=What KYC documents do I need for a loan?
+[2026-06-14 05:41:04] SESSION=test03 | EVENT=PRE_QUERY | Q=What is the weather today?
+[2026-06-14 05:41:04] SESSION=test03 | EVENT=ESCALATION | Escalated: What is the weather today?
+[2026-06-14 05:41:04] SESSION=test03 | EVENT=POST_ANSWER | STATUS=FALLBACK | POLICY=None | TIME=1ms | Q=What is the weather today?
+[2026-06-14 05:41:04] SESSION=test03 | EVENT=PRE_QUERY | Q=I want to bypass kyc with fake document
+[2026-06-14 05:41:04] SESSION=test03 | EVENT=COMPLIANCE_ALERT | RISK FLAGGED: I want to bypass kyc with fake document
+[2026-06-14 05:41:04] SESSION=test03 | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=KYC Policy (KYC-002) | TIME=1ms | Q=I want to bypass kyc with fake document
+[2026-06-14 05:50:36] SESSION=1b054f8e | EVENT=SESSION_START | App loaded — knowledge base ready
+[2026-06-14 06:09:18] SESSION=1b054f8e | EVENT=PRE_QUERY | Q=What is the interest rate for a home loan?
+[2026-06-14 06:09:18] SESSION=1b054f8e | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=Loan Policy (LP-001) | TIME=5ms | Q=What is the interest rate for a home loan?
+[2026-06-14 06:09:20] SESSION=1b054f8e | EVENT=PRE_QUERY | Q=What is the minimum balance for a savings account?
+[2026-06-14 06:09:20] SESSION=1b054f8e | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=Account Opening Policy (AOP-005) | TIME=3ms | Q=What is the minimum balance for a savings account?
+[2026-06-14 06:09:22] SESSION=1b054f8e | EVENT=PRE_QUERY | Q=How do I file a customer complaint?
+[2026-06-14 06:09:22] SESSION=1b054f8e | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=Customer Complaint Policy (CCP-003) | TIME=2ms | Q=How do I file a customer complaint?
+[2026-06-14 06:29:49] SESSION=1b054f8e | EVENT=PRE_QUERY | Q=kyc requirements
+[2026-06-14 06:29:49] SESSION=1b054f8e | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=KYC Policy (KYC-002) | TIME=5ms | Q=kyc requirements
+[2026-06-14 06:30:06] SESSION=1b054f8e | EVENT=PRE_QUERY | Q=how to open bank account
+[2026-06-14 06:30:06] SESSION=1b054f8e | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=Account Opening Policy (AOP-005) | TIME=7ms | Q=how to open bank account
+[2026-06-14 06:30:29] SESSION=1b054f8e | EVENT=SESSION_END | Total queries this session: 2
+[2026-06-14 06:30:34] SESSION=1b054f8e | EVENT=PRE_QUERY | Q=What is the interest rate for a home loan?
+[2026-06-14 06:30:34] SESSION=1b054f8e | EVENT=POST_ANSWER | STATUS=ANSWERED | POLICY=Loan Policy (LP-001) | TIME=6ms | Q=What is the interest rate for a home loan?

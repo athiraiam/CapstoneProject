@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" width="220" height="60">
+  <!-- Background pill -->
+  <rect x="0" y="0" width="220" height="60" rx="10" ry="10" fill="#003366"/>
+
+  <!-- Bank building icon -->
+  <!-- Base -->
+  <rect x="12" y="42" width="36" height="5" rx="1" fill="#FFC107"/>
+  <!-- Columns -->
+  <rect x="15" y="26" width="5" height="17" rx="1" fill="white"/>
+  <rect x="23" y="26" width="5" height="17" rx="1" fill="white"/>
+  <rect x="31" y="26" width="5" height="17" rx="1" fill="white"/>
+  <rect x="39" y="26" width="5" height="17" rx="1" fill="white"/>
+  <!-- Roof triangle -->
+  <polygon points="10,26 30,10 50,26" fill="#FFC107"/>
+  <!-- Star/dot on roof -->
+  <circle cx="30" cy="14" r="2.5" fill="#003366"/>
+
+  <!-- Text: NexaBank -->
+  <text x="62" y="28" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">NexaBank</text>
+  <!-- Tagline -->
+  <text x="62" y="47" font-family="Arial, sans-serif" font-size="10" fill="#99BBDD" letter-spacing="1">INTERNAL ASSISTANT</text>
+</svg>

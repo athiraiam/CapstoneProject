@@ -1,0 +1,69 @@
+POLICY NAME: Know Your Customer (KYC) Policy
+POLICY CODE: KYC-002
+LAST UPDATED: January 2024
+
+OVERVIEW:
+KYC is a mandatory process to verify the identity of customers to prevent fraud, money laundering,
+and other financial crimes. All employees must adhere to this policy strictly.
+
+WHEN KYC IS REQUIRED:
+- New account opening
+- Large cash transactions (above $10,000)
+- Wire transfers above $5,000
+- Loan applications
+- Changes to customer personal information
+- Suspicious activity detected on an account
+
+KYC LEVELS:
+1. Basic KYC (Standard Customers)
+   - One government-issued photo ID (Passport, Driver's License, National ID)
+   - One proof of address (utility bill, bank statement - not older than 3 months)
+
+2. Enhanced KYC (High-Risk or High-Value Customers)
+   - Two government-issued IDs
+   - Source of funds declaration
+   - Enhanced due diligence report
+   - Senior management approval required
+
+3. Corporate KYC (Business Accounts)
+   - Certificate of incorporation
+   - List of directors and shareholders (with IDs)
+   - Memorandum and Articles of Association
+   - Business address proof
+   - Authorization letter for account operator
+
+ACCEPTABLE IDENTITY DOCUMENTS:
+- Passport
+- National Identity Card
+- Driver's License
+- Voter Registration Card (with photo)
+
+ACCEPTABLE ADDRESS PROOF:
+- Utility bill (electricity, water, gas) - within 3 months
+- Bank statement from another institution - within 3 months
+- Government-issued mail (tax letters, registration)
+- Lease/rental agreement
+
+KYC VERIFICATION PROCESS:
+1. Collect original documents from the customer
+2. Verify document authenticity using the ID verification system
+3. Take clear scans/photographs of all documents
+4. Upload to the KYC Management System (KYCMS)
+5. Mark verification status in the customer profile
+6. Retain physical or digital copies as per record retention policy (7 years minimum)
+
+KYC RENEWAL:
+- Standard customers: Every 3 years
+- High-risk customers: Every 1 year
+- Corporate accounts: Every 2 years
+
+NON-COMPLIANCE:
+Failure to complete KYC may result in:
+- Account suspension
+- Transaction blocking
+- Regulatory penalties to the bank
+- Disciplinary action for the responsible employee
+
+ESCALATION:
+For KYC disputes or high-risk customer cases, escalate to the Compliance Team.
+Contact: compliance@bank.internal

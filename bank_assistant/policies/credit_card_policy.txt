@@ -1,0 +1,79 @@
+POLICY NAME: Credit Card Policy
+POLICY CODE: CCP-004
+LAST UPDATED: January 2024
+
+OVERVIEW:
+This policy covers the issuance, usage, billing, disputes, and cancellation of credit cards
+offered by the bank to eligible customers.
+
+ELIGIBILITY:
+- Minimum age: 21 years
+- Minimum monthly income: $3,000 (for standard cards)
+- Minimum monthly income: $6,000 (for premium/platinum cards)
+- Minimum credit score: 680
+- Must have an active savings or current account with the bank
+
+CREDIT CARD TYPES:
+1. Classic Card
+   - Credit limit: Up to $5,000
+   - Annual fee: $50 (waived if annual spend exceeds $6,000)
+   - Rewards: 1 point per $1 spent
+
+2. Gold Card
+   - Credit limit: Up to $15,000
+   - Annual fee: $150 (waived if annual spend exceeds $15,000)
+   - Rewards: 2 points per $1 spent
+   - Complimentary airport lounge access: 2 visits/year
+
+3. Platinum Card
+   - Credit limit: Up to $50,000
+   - Annual fee: $300 (waived if annual spend exceeds $30,000)
+   - Rewards: 3 points per $1 spent
+   - Unlimited airport lounge access
+   - Complimentary travel insurance
+
+APPLICATION PROCESS:
+1. Customer fills out credit card application form
+2. Employee verifies identity and income documents
+3. Credit bureau check is performed
+4. Approval by credit card department within 3 business days
+5. Card dispatched via secure courier within 5 business days of approval
+
+BILLING:
+- Billing cycle: Monthly (1st to last day of month)
+- Statement generated on the 1st of each month
+- Payment due date: 20th of the same month
+- Minimum payment: 5% of outstanding balance or $25 (whichever is higher)
+
+INTEREST RATES:
+- Standard APR: 18% to 24% per annum (based on credit profile)
+- Cash advance APR: 28% per annum
+- Late payment fee: $35 per occurrence
+- Over-limit fee: $25 per occurrence
+
+CARD USAGE LIMITS:
+- Cash advance limit: 30% of credit limit
+- International transaction limit: Subject to customer's travel notification
+
+LOST/STOLEN CARD:
+- Customer must report immediately to: 1-800-CARD-STOP
+- Card will be blocked within 15 minutes of report
+- Liability for unauthorized transactions: Customer not liable if reported promptly
+- Replacement card issued within 5 business days
+
+DISPUTE PROCESS:
+1. Customer raises dispute via app, phone, or branch
+2. Dispute logged in system with reference number
+3. Bank investigates within 7 business days
+4. If fraud confirmed: Full refund and new card issued
+5. If merchant error: Chargeback initiated
+
+CARD CANCELLATION:
+- Customer can cancel anytime by calling helpline or visiting branch
+- Outstanding balance must be cleared before cancellation
+- Reward points must be redeemed before cancellation (non-transferable)
+- Annual fee is non-refundable after card activation
+
+ESCALATION:
+For credit card disputes or limit enhancement requests:
+Contact: creditcards@bank.internal
