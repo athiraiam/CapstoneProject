@@ -1,0 +1,32 @@
+{
+  "test_config": {
+    "total_questions": 20,
+    "iterations": 3,
+    "total_tasks": 60,
+    "concurrent_workers": 10
+  },
+  "results": {
+    "total_ok": 60,
+    "errors": 0,
+    "found_count": 54,
+    "found_rate_pct": 90.0
+  },
+  "latency_ms": {
+    "min": 4.29,
+    "mean": 9.85,
+    "p50": 8.78,
+    "p95": 16.5,
+    "p99": 30.33,
+    "max": 30.33
+  },
+  "throughput": {
+    "wall_clock_sec": 0.087,
+    "requests_per_sec": 693.0,
+    "concurrent_workers": 10
+  },
+  "intent_distribution": {
+    "policy_query": 48,
+    "escalation": 6,
+    "summary": 6
+  }
+}

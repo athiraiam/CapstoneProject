@@ -1,0 +1,33 @@
+{
+  "_comment": "MCP server configuration for NexaBank Policy Assistant. Register this in Claude Desktop or Claude Code to enable direct policy queries via MCP tools.",
+  "mcpServers": {
+    "nexabank-policy-assistant": {
+      "command": "python",
+      "args": ["mcp_server.py"],
+      "cwd": "/path/to/CapstoneProject/bank_assistant",
+      "description": "NexaBank Internal Policy Assistant — exposes 5 bank policy documents as searchable MCP tools",
+      "tools": [
+        {
+          "name": "search_policy",
+          "description": "Search NexaBank policy knowledge base for an answer to an employee question"
+        },
+        {
+          "name": "list_policies",
+          "description": "List all available bank policy documents"
+        },
+        {
+          "name": "get_policy_full",
+          "description": "Get the complete text of a specific policy by code (LP-001, KYC-002, etc.)"
+        },
+        {
+          "name": "cross_reference",
+          "description": "Find all policies relevant to a multi-domain question"
+        },
+        {
+          "name": "check_compliance_risk",
+          "description": "Screen a question for compliance risk keywords"
+        }
+      ]
+    }
+  }
+}
